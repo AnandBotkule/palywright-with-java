@@ -1,0 +1,19 @@
+20:27:44,090  INFO testcase.login<strong>{1}</strong>:45 - Test Execuetion stated
+20:27:44,092  INFO testcase.login<strong>{1}</strong>:53 - OR properties file loaded
+20:27:52,472  INFO testcase.login<strong>{1}</strong>:64 - LaunchingChromeBrowsers
+20:27:55,764  INFO testcase.login<strong>{1}</strong>:117 - navigate tohttps://www.saucedemo.com/
+20:27:55,823  INFO testcase.login<strong>{1}</strong>:104 - clicking on elementusernameentered valuestandard_user
+20:27:55,836  INFO testcase.login<strong>{1}</strong>:104 - clicking on elementpasswordentered valuesecret_sauce
+20:27:55,920  INFO testcase.login<strong>{1}</strong>:77 - clicking on elementlogin
+20:27:55,979  INFO testcase.login<strong>{1}</strong>:92 - Element is present in the pagetitle
+20:27:56,002  INFO testcase.login<strong>{1}</strong>:92 - Element is present in the pagetitle
+20:27:56,566  INFO testcase.login<strong>{1}</strong>:64 - LaunchingChromeBrowsers
+20:28:03,025  INFO base.BaseTest<strong>{1}</strong>:117 - navigate tohttps://www.saucedemo.com/
+20:28:03,075  INFO base.BaseTest<strong>{1}</strong>:104 - clicking on elementusernameentered valuestandard_user
+20:28:03,089  INFO base.BaseTest<strong>{1}</strong>:104 - clicking on elementpasswordentered valuesecret_sauce
+20:28:03,179  INFO base.BaseTest<strong>{1}</strong>:77 - clicking on elementlogin
+20:28:03,212  INFO base.BaseTest<strong>{1}</strong>:92 - Element is present in the pagetitle
+20:28:03,243  INFO base.BaseTest<strong>{1}</strong>:92 - Element is present in the pagetitle
+20:28:08,427  INFO testcase.login<strong>{1}</strong>:64 - LaunchingChromeBrowsers
+20:28:18,548  INFO testcase.login<strong>{1}</strong>:117 - navigate tohttps://google.com
+20:28:18,597  INFO testcase.login<strong>{1}</strong>:104 - clicking on elementsearchBoxentered valueHello Playwright
